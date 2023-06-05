@@ -1,0 +1,27 @@
+body {
+    background-color: lightblue;
+    color:darkblue
+}
+
+h1 {
+    font-family: 'arial', sans-serif;}
+
+{ 
+font-family: 'arial', sans serif;
+font-size: 36px;
+text-align: center;
+
+
+}
+
+
+
+
+
+
+p { 
+    font-family: Georgia, serif;
+font-size:  size 18px; 
+padding: 10px;
+margin: 20 px;
+}
